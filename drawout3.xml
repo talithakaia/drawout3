@@ -53,7 +53,7 @@
                         </value>
                         <next>
                           <block type="oled_linerect" id="69">
-                            <field name="OBJECT">LINE</field>
+                            <field name="OBJECT">RECT</field>
                             <next>
                               <block type="oled_setcursor" id="78" inline="true">
                                 <value name="STARTX">
