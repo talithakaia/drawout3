@@ -26,7 +26,7 @@
             </value>
             <next>
               <block type="oled_linerect" id="36">
-                <field name="OBJECT">LINE</field>
+                <field name="OBJECT">RECT</field>
                 <next>
                   <block type="oled_setcursor" id="51" inline="true">
                     <value name="STARTX">
@@ -80,7 +80,7 @@
                                     </value>
                                     <next>
                                       <block type="oled_linerect" id="96">
-                                        <field name="OBJECT">LINE</field>
+                                        <field name="OBJECT">RECT</field>
                                       </block>
                                     </next>
                                   </block>
